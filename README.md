@@ -5,5 +5,5 @@ Neural Networks\
 Principal Component Analysis\
 Linear Regression\
 Logistic Regression\
-NLP - specifically count, hash, and tf-idf vectorizers\
+NLP - specifically count, hash, and tf-idf vectorizers
 
