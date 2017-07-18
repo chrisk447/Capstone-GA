@@ -7,3 +7,4 @@ Linear Regression\
 Logistic Regression\
 NLP - specifically count, hash, and tf-idf vectorizers
 
+[My Google Deck](https://docs.google.com/presentation/d/1UOJk8wIvOb7Ah7lUZBQpM79HJMvQfFRcrlScOc5kc74/edit?usp=sharing)
