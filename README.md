@@ -16,9 +16,8 @@ Hypothesis testing
 
 ## Process Flow
 1. Gathering the raw data
-
-  - Use StockX API
-  - Download data into csv to prevent scraping every time
+    - Use StockX API
+    - Download data into csv to prevent scraping every time
 
 2. Cleaning and Initial Analysis
 
